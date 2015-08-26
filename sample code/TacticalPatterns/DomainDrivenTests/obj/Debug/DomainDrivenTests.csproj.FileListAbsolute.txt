@@ -1,0 +1,18 @@
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\obj\Debug\DomainDrivenTests.csprojResolveAssemblyReference.cache
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainDrivenTests.dll
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainDrivenTests.pdb
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainModel.dll
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainPatterns.dll
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainModel.pdb
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainPatterns.pdb
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\obj\Debug\DomainDrivenTests.dll
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainDrivenTests\obj\Debug\DomainDrivenTests.pdb
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\obj\Debug\DomainDrivenTests.csprojResolveAssemblyReference.cache
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainDrivenTests.dll
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainDrivenTests.pdb
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainModel.dll
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainPatterns.dll
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainModel.pdb
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\bin\Debug\DomainPatterns.pdb
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\obj\Debug\DomainDrivenTests.dll
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainDrivenTests\obj\Debug\DomainDrivenTests.pdb

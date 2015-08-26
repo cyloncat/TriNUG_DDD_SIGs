@@ -1,0 +1,10 @@
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainPatterns\bin\Debug\DomainPatterns.dll
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainPatterns\bin\Debug\DomainPatterns.pdb
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainPatterns\obj\Debug\DomainPatterns.dll
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainPatterns\obj\Debug\DomainPatterns.pdb
+D:\Documents\trinug\domain driven design\Samples\TacticalPatterns\DomainPatterns\obj\Debug\DomainPatterns.csprojResolveAssemblyReference.cache
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainPatterns\bin\Debug\DomainPatterns.dll
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainPatterns\bin\Debug\DomainPatterns.pdb
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainPatterns\obj\Debug\DomainPatterns.csprojResolveAssemblyReference.cache
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainPatterns\obj\Debug\DomainPatterns.dll
+C:\Users\Diane\Documents\GitHub\TriNUG DDD SIGs\sample code\TacticalPatterns\DomainPatterns\obj\Debug\DomainPatterns.pdb
